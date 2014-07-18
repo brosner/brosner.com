@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/brosner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://brosner.com
+* I am brosner (https://keybase.io/brosner) on keybase.
+* I have a public key with fingerprint AF77 F82F A6E2 ADC4 6E64  71A0 A520 B718 6E67 7E82
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "af77f82fa6e2adc46e6471a0a520b7186e677e82",
+            "host": "keybase.io",
+            "key_id": "A520B7186E677E82",
+            "uid": "cc1ce574975a21edb813a791d99b1b00",
+            "username": "brosner"
+        },
+        "service": {
+            "hostname": "brosner.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396113340,
+    "expire_in": 157680000,
+    "prev": "a0c86a793fdef59a04cdf99fc0954724a3b01aac663258241cc65b65f2fff4ea",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkWtIFFEUx2ftYVpuEgmWYjE9yFhtZnaeawU9lkLbLDMI/bDO3LmzTunMOjua
+omtPS20hMZLwQ5LihygtxMhSSOlhZEpFUIQmJIqYJRWCW1HdkfrQ/XI55/z+/3PO
+vXUxC7AIW+vau/Gar/K0baB3RsIOsb97ynFJl8twVzl+DM5fiqr5oOE3VM3EXbio
+cJzCU4rIQkqUAc1CluZIkRAZipA4kkcxx0Gewh14vh6wFMhGEgMwVdVRDgVeVUbZ
+HYjfafFuxLvn+eL5AgAkgAxHCxwjUiSUJZ50ipxAyoIgkRJBWGAAGppYCBEtGXpA
+gwYedOAoWaICaI1sdf4fSAV6IVL6Dd3UgV6ACvmm6XdZOrPMb4HHoeT9a+GVVE1G
+WyNBCTQCqq7hLhKRwFQtT9IpsCTpdNKEA4elftWAXtUiGI7lCXSsNrDEeisC8Cya
+3anIUGEEkaCBrAiCAgiBoTmKFp0SQYoiYFknxfAUTQLAMhLLKJSiKDQUcWupIk3H
+XTQaU/Qhy4Dq00Sz2IB4sMaWuBCzRWCLF0VY/4ZFR8X++00+JvLX5o9ubqDrw7d9
+Id0TXLriNZi7dymppTHbf//ZNdCT2pPegScLLwbPBYy+aqF/LCrjVPjBnqnlbeHv
+T0JY1yixKmtJ7tcEz5fI4aabbzOjO1fX7L7QvMadk7KpQm+aSLS3577hP8/Otpgn
+quyHsSsVbTnZ5ycm3w+1z+2vfdzZndDfujFvPKv+qSt2fZF96HklmDx6kWmLKKgv
+3rIr/nbcncyV1R1zPxqxCSxj1J5h9h3B7Ae4aefey3k/xwa14bSzWz0NdZ8c7xrS
+HyWlDdyKKgyVHgwPVr3a4Nk+vS3MJ2vrTvbmPITRROj6y/zaM01xN6aujjQvGx9J
+MbqDwzPyHw==
+=eRWC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brosner
+
+==================================================================
