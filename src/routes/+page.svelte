@@ -67,4 +67,12 @@
       </div>
     </section>
   </div>
+
+  <footer class="footer">
+    <div class="content is-small has-text-centered">
+      <p>
+        Site built with <a href="https://kit.svelte.dev/">SvelteKit</a> and <a href="https://bulma.io">Bulma</a>. Hosted on <a href="https://firebase.google.com">Firebase</a>.
+      </p>
+    </div>
+  </footer>
 </div>
