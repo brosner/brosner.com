@@ -42,5 +42,29 @@
         <h1 class="title is-1">Brian Rosner</h1>
       </div>
     </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-two-thirds content is-large">
+            <h2>Work</h2>
+            <p>
+              I am a Senior Software Engineer at <a href="https://www.reddit.com">Reddit</a> working on the infrastructure&nbsp;team.
+            </p>
+            <p>
+              Previously, I was the CTO at Gemr.
+            </p>
+            <p>
+              Previously, I was the Chief Architect at <a href="https://eldarion.com">Eldarion</a>.
+            </p>
+            <h2>Home</h2>
+            <p>
+              I live in <a href="https://en.wikipedia.org/wiki/Denver">Denver</a>, <a href="https://en.wikipedia.org/wiki/Colorado">CO</a>. I am the husband to Hannah Yabrove-Rosner. I am
+              the father to Eddie, Minnie (dog) and Lily (cat).
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </div>
