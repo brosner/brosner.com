@@ -52,7 +52,7 @@
               I am a Senior Software Engineer at <a href="https://ramp.com/">Ramp</a> working on the infrastructure&nbsp;team.
             </p>
             <p>
-              Previously, I was a Senior Software Engineer at Reddit, the CTO at Gemr and the Chief Architect at <a href="https://eldarion.com">Eldarion</a>.
+              Previously, I was a Senior Software Engineer at Reddit, the CTO at Gemr and the Chief Architect at Eldarion.
             </p>
             <h2>Home</h2>
             <p>
